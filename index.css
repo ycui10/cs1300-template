@@ -1,1 +1,44 @@
-/* Put your style information here! */
+.display-4{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+
+.interface-sketch{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.col-sm{
+	padding-top: 30px;
+	background-color: #FAE3D1;
+	text-align: center;
+}
+
+.list{
+	text-align: left;
+	margin-bottom: 30px;
+}
+
+.interview-text{
+	text-align: left;
+}
+
+.container{
+	margin-bottom: 30px;
+}
+
+.pie-chart{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.persona{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.persona-text{
+	margin-bottom: 30px;
+}/* Put your style information here! */
